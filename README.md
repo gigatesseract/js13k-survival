@@ -2,8 +2,7 @@
 The submission for the js13k games  
 
 The source code with proper comments is given below:-  
-
-```  
+```javascript
 //  SURVIVAL - submission for the js13kgames.`     
 //   The protagonst of the game is a spaceship, which youll control, the obective is to avoid obstacles. 
 //    The game consists of two surfaces, the groundlevel and the ceiling.
